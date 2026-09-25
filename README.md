@@ -16,11 +16,7 @@ Power BI practical assignments for Data Analytics Tools (Lab), TY B.Sc.(IT) Seme
 
 1. Introduction to Power BI Interface and Data Connectivity
 2. Importing and Cleaning Data from Multiple Data Sources
-3. Data Transformation using Power Query
-4. Creating Data Models and Establishing Relationships
-5. Designing Basic Charts for Data Visualization
-6. Using Filters, Slicers, and Parameters to Enhance Interactivity
-7. Creating Calculated Fields, Measures, and KPIs
+3. Designing Basic Charts for Data Visualization
 
 ## Tools Used
 
